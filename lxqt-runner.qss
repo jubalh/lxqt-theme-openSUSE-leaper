@@ -1,0 +1,17 @@
+Dialog {}
+
+#panel {
+  background: #173F4F;
+}
+
+#closeButton {
+  qproperty-icon: url(lxqt-runner/close-48x48.png);
+}
+
+#commandList {
+  margin: 0 1px 1px 1px;
+}
+
+#actionButton {
+    color: rgba(41, 41, 41, 0%);
+}

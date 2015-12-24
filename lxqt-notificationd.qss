@@ -1,0 +1,17 @@
+Notification {
+    background: #173F4F;
+    border: 1px solid #B0B0B0;
+    margin: 0px;
+}
+
+QLabel {
+    color: black;
+}
+
+#appLabel {
+    color: #838581;
+}
+
+#closeButton {
+    qproperty-icon: url(lxqt-runner/close-48x48.png);
+}
